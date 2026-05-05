@@ -1,2 +1,2 @@
 # jornadapythonhashtag
-curso de puthon 8 horas
+curso de python 8 horas
